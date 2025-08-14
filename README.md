@@ -1,4 +1,7 @@
-This version compiles with lvgl 8.3. I had to set the partiion scheme to "Huge APP (3MB No OTA/1MB SPIFFS)" under tools > board.
+# This version compiles with lvgl 8.3. I had to set the partiion scheme to "Huge APP (3MB No OTA/1MB SPIFFS)" under tools > board.
+The changes made were to the pinouts and the inversion switch. Everything else is the same.
+
+---
 
 
 # 🐱 Bongo Cat ESP32 - Your Cute Digital Typing Companion
