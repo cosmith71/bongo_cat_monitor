@@ -1,3 +1,6 @@
+This version compiles with lvgl 8.3. I had to set the partiion scheme to "Huge APP (3MB No OTA/1MB SPIFFS)" under tools > board.
+
+
 # 🐱 Bongo Cat ESP32 - Your Cute Digital Typing Companion
 
 ![Bongo Cat](web%20resources/cat1.png)
